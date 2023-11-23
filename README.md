@@ -63,6 +63,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+### Library List Use in this Project
+react-bootstrap - npm install react-bootstrap bootstrap
+react-router-dom - npm install react-router-dom
+uuid - npm install uuid
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
